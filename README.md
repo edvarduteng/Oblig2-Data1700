@@ -1,5 +1,6 @@
 # Oblig2-Data1700
 =================
+
 OsloMet brukernavn: edute2121
 
 GitHub brukernavn: edvarduteng
